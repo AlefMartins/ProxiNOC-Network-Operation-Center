@@ -1,0 +1,282 @@
+2025-03-02 16:32:15 info: Conexão com o banco de dados estabelecida com sucesso.
+2025-03-02 16:32:15 info: Servidor rodando na porta 3001 em ambiente development.
+2025-03-02 16:32:39 info: Conexão com o banco de dados estabelecida com sucesso.
+2025-03-02 16:32:39 info: Servidor rodando na porta 3001 em ambiente development.
+2025-03-02 16:33:04 info: Conexão com o banco de dados estabelecida com sucesso.
+2025-03-02 16:33:04 info: Servidor rodando na porta 3001 em ambiente development.
+2025-03-02 16:33:15 info: Conexão com o banco de dados estabelecida com sucesso.
+2025-03-02 16:33:15 info: Servidor rodando na porta 3001 em ambiente development.
+2025-03-02 16:33:27 info: Conexão com o banco de dados estabelecida com sucesso.
+2025-03-02 16:33:27 info: Servidor rodando na porta 3001 em ambiente development.
+2025-03-02 17:12:47 info: POST /api/auth/login - Request received from ::1
+2025-03-02 17:12:47 error: Erro no login: authService.login is not a function
+TypeError: authService.login is not a function
+    at login (C:\Users\alef.martins\Documents\ProxyMO\backend\controllers\auth.controller.js:29:40)
+    at Layer.handle [as handle_request] (C:\Users\alef.martins\Documents\ProxyMO\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\alef.martins\Documents\ProxyMO\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\alef.martins\Documents\ProxyMO\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\alef.martins\Documents\ProxyMO\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\alef.martins\Documents\ProxyMO\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\alef.martins\Documents\ProxyMO\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\alef.martins\Documents\ProxyMO\backend\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\alef.martins\Documents\ProxyMO\backend\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\alef.martins\Documents\ProxyMO\backend\node_modules\express\lib\router\index.js:47:12)
+2025-03-02 17:12:47 warn: POST /api/auth/login - 401 - 14ms
+2025-03-02 17:13:04 info: POST /api/auth/login - Request received from ::1
+2025-03-02 17:13:04 error: Erro no login: authService.login is not a function
+TypeError: authService.login is not a function
+    at login (C:\Users\alef.martins\Documents\ProxyMO\backend\controllers\auth.controller.js:29:40)
+    at Layer.handle [as handle_request] (C:\Users\alef.martins\Documents\ProxyMO\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\alef.martins\Documents\ProxyMO\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\alef.martins\Documents\ProxyMO\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\alef.martins\Documents\ProxyMO\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\alef.martins\Documents\ProxyMO\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\alef.martins\Documents\ProxyMO\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\alef.martins\Documents\ProxyMO\backend\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\alef.martins\Documents\ProxyMO\backend\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\alef.martins\Documents\ProxyMO\backend\node_modules\express\lib\router\index.js:47:12)
+2025-03-02 17:13:04 warn: POST /api/auth/login - 401 - 5ms
+2025-03-02 17:14:13 info: POST /api/auth/login - Request received from ::1
+2025-03-02 17:14:13 error: Erro no login: authService.login is not a function
+TypeError: authService.login is not a function
+    at login (C:\Users\alef.martins\Documents\ProxyMO\backend\controllers\auth.controller.js:29:40)
+    at Layer.handle [as handle_request] (C:\Users\alef.martins\Documents\ProxyMO\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\alef.martins\Documents\ProxyMO\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\alef.martins\Documents\ProxyMO\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\alef.martins\Documents\ProxyMO\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\alef.martins\Documents\ProxyMO\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\alef.martins\Documents\ProxyMO\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\alef.martins\Documents\ProxyMO\backend\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\alef.martins\Documents\ProxyMO\backend\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\alef.martins\Documents\ProxyMO\backend\node_modules\express\lib\router\index.js:47:12)
+2025-03-02 17:14:13 warn: POST /api/auth/login - 401 - 5ms
+2025-03-02 17:15:16 info: POST /api/auth/login - Request received from ::1
+2025-03-02 17:15:16 error: Erro no login: authService.login is not a function
+TypeError: authService.login is not a function
+    at login (C:\Users\alef.martins\Documents\ProxyMO\backend\controllers\auth.controller.js:29:40)
+    at Layer.handle [as handle_request] (C:\Users\alef.martins\Documents\ProxyMO\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\alef.martins\Documents\ProxyMO\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\alef.martins\Documents\ProxyMO\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\alef.martins\Documents\ProxyMO\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\alef.martins\Documents\ProxyMO\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\alef.martins\Documents\ProxyMO\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\alef.martins\Documents\ProxyMO\backend\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\alef.martins\Documents\ProxyMO\backend\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\alef.martins\Documents\ProxyMO\backend\node_modules\express\lib\router\index.js:47:12)
+2025-03-02 17:15:16 warn: POST /api/auth/login - 401 - 2ms
+2025-03-02 23:03:02 info: POST /api/auth/login - Request received from ::1
+2025-03-02 23:03:02 error: Erro no login: authService.login is not a function
+TypeError: authService.login is not a function
+    at login (C:\Users\alef.martins\Documents\ProxyMO\backend\controllers\auth.controller.js:29:40)
+    at Layer.handle [as handle_request] (C:\Users\alef.martins\Documents\ProxyMO\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\alef.martins\Documents\ProxyMO\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\alef.martins\Documents\ProxyMO\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\alef.martins\Documents\ProxyMO\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\alef.martins\Documents\ProxyMO\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\alef.martins\Documents\ProxyMO\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\alef.martins\Documents\ProxyMO\backend\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\alef.martins\Documents\ProxyMO\backend\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\alef.martins\Documents\ProxyMO\backend\node_modules\express\lib\router\index.js:47:12)
+2025-03-02 23:03:02 warn: POST /api/auth/login - 401 - 8ms
+2025-03-02 23:18:04 info: Conexão com o banco de dados estabelecida com sucesso.
+2025-03-02 23:18:04 info: Servidor rodando na porta 3001 em ambiente development.
+2025-03-02 23:20:59 info: POST /api/auth/login - Request received from ::1
+2025-03-02 23:20:59 error: Erro no login: authService.login is not a function
+TypeError: authService.login is not a function
+    at login (C:\Users\alef.martins\Documents\ProxyMO\backend\controllers\auth.controller.js:29:40)
+    at Layer.handle [as handle_request] (C:\Users\alef.martins\Documents\ProxyMO\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\alef.martins\Documents\ProxyMO\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\alef.martins\Documents\ProxyMO\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\alef.martins\Documents\ProxyMO\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\alef.martins\Documents\ProxyMO\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\alef.martins\Documents\ProxyMO\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\alef.martins\Documents\ProxyMO\backend\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\alef.martins\Documents\ProxyMO\backend\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\alef.martins\Documents\ProxyMO\backend\node_modules\express\lib\router\index.js:47:12)
+2025-03-02 23:20:59 warn: POST /api/auth/login - 401 - 29ms
+2025-03-02 23:42:17 info: Conexão com o banco de dados estabelecida com sucesso.
+2025-03-02 23:42:17 info: Servidor rodando na porta 3001 em ambiente development.
+2025-03-02 23:43:47 info: POST /api/auth/login - Request received from ::1
+2025-03-02 23:43:47 info: Tentativa de login para usuário: admin
+2025-03-02 23:43:47 info: Realizando autenticação local para: admin
+2025-03-02 23:43:47 info: Resultado da validação de senha: true
+2025-03-02 23:43:47 info: Login bem-sucedido para: admin
+2025-03-02 23:43:47 info: POST /api/auth/login - 200 - 317ms
+2025-03-02 23:46:00 info: GET /api/auth/verify - Request received from ::1
+2025-03-02 23:46:00 info: GET /api/auth/verify - Request received from ::1
+2025-03-02 23:46:00 info: GET /api/auth/verify - 200 - 40ms
+2025-03-02 23:46:00 info: GET /api/auth/verify - 200 - 35ms
+2025-03-02 23:46:08 info: GET /api/auth/verify - Request received from ::1
+2025-03-02 23:46:08 info: GET /api/auth/verify - Request received from ::1
+2025-03-02 23:46:08 info: GET /api/auth/verify - 200 - 22ms
+2025-03-02 23:46:08 info: GET /api/auth/verify - 200 - 20ms
+2025-03-02 23:46:17 info: POST /api/auth/logout - Request received from ::1
+2025-03-02 23:46:17 info: POST /api/auth/logout - 200 - 36ms
+2025-03-02 23:49:53 info: Conexão com o banco de dados estabelecida com sucesso.
+2025-03-02 23:49:53 info: Servidor rodando na porta 3001 em ambiente development.
+2025-03-02 23:51:32 info: Conexão com o banco de dados estabelecida com sucesso.
+2025-03-02 23:51:32 info: Servidor rodando na porta 3001 em ambiente development.
+2025-03-03 00:09:55 info: Conexão com o banco de dados estabelecida com sucesso.
+2025-03-03 00:09:55 info: Servidor rodando na porta 3001 em ambiente development.
+2025-03-03 00:10:15 info: Conexão com o banco de dados estabelecida com sucesso.
+2025-03-03 00:10:15 info: Servidor rodando na porta 3001 em ambiente development.
+2025-03-03 00:11:17 info: Conexão com o banco de dados estabelecida com sucesso.
+2025-03-03 00:11:17 info: Servidor rodando na porta 3001 em ambiente development.
+2025-03-03 00:12:12 info: Conexão com o banco de dados estabelecida com sucesso.
+2025-03-03 00:12:12 info: Servidor rodando na porta 3001 em ambiente development.
+2025-03-03 00:12:22 info: Conexão com o banco de dados estabelecida com sucesso.
+2025-03-03 00:12:22 info: Servidor rodando na porta 3001 em ambiente development.
+2025-03-03 00:12:59 info: Conexão com o banco de dados estabelecida com sucesso.
+2025-03-03 00:12:59 info: Servidor rodando na porta 3001 em ambiente development.
+2025-03-03 00:13:12 info: Conexão com o banco de dados estabelecida com sucesso.
+2025-03-03 00:13:12 info: Servidor rodando na porta 3001 em ambiente development.
+2025-03-03 00:16:24 info: Conexão com o banco de dados estabelecida com sucesso.
+2025-03-03 00:16:24 info: Servidor rodando na porta 3001 em ambiente development.
+2025-03-03 00:30:04 info: POST /api/auth/login - Request received from ::1
+2025-03-03 00:30:04 info: Tentativa de login para usuário: admin
+2025-03-03 00:30:04 info: Realizando autenticação local para: admin
+2025-03-03 00:30:04 info: Resultado da validação de senha: true
+2025-03-03 00:30:04 info: Login bem-sucedido para: admin
+2025-03-03 00:30:04 info: POST /api/auth/login - 200 - 275ms
+2025-03-03 00:31:58 info: GET /api/auth/verify - Request received from ::1
+2025-03-03 00:31:58 info: GET /api/auth/verify - Request received from ::1
+2025-03-03 00:31:58 info: GET /api/auth/verify - 200 - 33ms
+2025-03-03 00:31:58 info: GET /api/auth/verify - 200 - 28ms
+2025-03-03 00:33:17 info: GET /api/auth/verify - Request received from ::1
+2025-03-03 00:33:17 info: GET /api/auth/verify - 200 - 20ms
+2025-03-03 00:33:21 info: GET /api/auth/verify - Request received from ::1
+2025-03-03 00:33:21 info: GET /api/auth/verify - 200 - 23ms
+2025-03-03 00:34:18 info: GET /api/auth/verify - Request received from ::1
+2025-03-03 00:34:18 info: GET /api/auth/verify - Request received from ::1
+2025-03-03 00:34:18 info: GET /api/auth/verify - 200 - 35ms
+2025-03-03 00:34:18 info: GET /api/auth/verify - 200 - 32ms
+2025-03-03 00:34:21 info: GET /api/ldap/config - Request received from ::1
+2025-03-03 00:34:21 info: GET /api/ldap/config - Request received from ::1
+2025-03-03 00:34:21 info: GET /api/ldap/config - 200 - 28ms
+2025-03-03 00:34:21 info: GET /api/ldap/config - 200 - 29ms
+2025-03-03 00:34:40 info: GET /api/ldap/config - Request received from ::1
+2025-03-03 00:34:40 info: GET /api/ldap/config - Request received from ::1
+2025-03-03 00:34:40 info: GET /api/ldap/config - 200 - 70ms
+2025-03-03 00:34:40 info: GET /api/ldap/config - 200 - 41ms
+2025-03-03 00:34:42 info: GET /api/ldap/config - Request received from ::1
+2025-03-03 00:34:42 info: GET /api/ldap/config - Request received from ::1
+2025-03-03 00:34:42 info: GET /api/ldap/config - 200 - 57ms
+2025-03-03 00:34:42 info: GET /api/ldap/config - 200 - 31ms
+2025-03-03 00:34:51 info: GET /api/ldap/config - Request received from ::1
+2025-03-03 00:34:51 info: GET /api/ldap/config - Request received from ::1
+2025-03-03 00:34:51 info: GET /api/ldap/config - 200 - 44ms
+2025-03-03 00:34:51 info: GET /api/ldap/config - 200 - 43ms
+2025-03-03 00:34:56 info: GET /api/ldap/config - Request received from ::1
+2025-03-03 00:34:56 info: GET /api/ldap/config - Request received from ::1
+2025-03-03 00:34:56 info: GET /api/ldap/config - 200 - 35ms
+2025-03-03 00:34:56 info: GET /api/ldap/config - 200 - 37ms
+2025-03-03 00:35:00 info: GET /api/ldap/config - Request received from ::1
+2025-03-03 00:35:00 info: GET /api/ldap/config - Request received from ::1
+2025-03-03 00:35:00 info: GET /api/ldap/config - 200 - 27ms
+2025-03-03 00:35:00 info: GET /api/ldap/config - 200 - 22ms
+2025-03-03 00:35:53 info: GET /api/ldap/config - Request received from ::1
+2025-03-03 00:35:53 info: GET /api/ldap/config - Request received from ::1
+2025-03-03 00:35:53 info: GET /api/ldap/config - 200 - 58ms
+2025-03-03 00:35:53 info: GET /api/ldap/config - 200 - 52ms
+2025-03-03 00:41:41 info: GET /api/ldap/config - Request received from ::1
+2025-03-03 00:41:41 info: GET /api/ldap/config - Request received from ::1
+2025-03-03 00:41:41 info: GET /api/ldap/config - 200 - 33ms
+2025-03-03 00:41:41 info: GET /api/ldap/config - 200 - 27ms
+2025-03-03 00:42:28 info: POST /api/auth/logout - Request received from ::1
+2025-03-03 00:42:28 info: POST /api/auth/logout - 200 - 42ms
+2025-03-03 08:04:17 info: POST /api/auth/login - Request received from ::1
+2025-03-03 08:04:17 info: Tentativa de login para usuário: admin
+2025-03-03 08:04:17 info: Realizando autenticação local para: admin
+2025-03-03 08:04:17 info: Resultado da validação de senha: true
+2025-03-03 08:04:17 info: Login bem-sucedido para: admin
+2025-03-03 08:04:17 info: POST /api/auth/login - 200 - 271ms
+2025-03-03 08:04:35 info: GET /api/ldap/config - Request received from ::1
+2025-03-03 08:04:35 info: GET /api/ldap/config - Request received from ::1
+2025-03-03 08:04:35 info: GET /api/ldap/config - 200 - 98ms
+2025-03-03 08:04:35 info: GET /api/ldap/config - 200 - 103ms
+2025-03-03 08:04:54 info: GET /api/ldap/config - Request received from ::1
+2025-03-03 08:04:54 info: GET /api/ldap/config - Request received from ::1
+2025-03-03 08:04:54 info: GET /api/ldap/config - 200 - 92ms
+2025-03-03 08:04:54 info: GET /api/ldap/config - 200 - 97ms
+2025-03-03 08:10:37 info: GET /api/ldap/config - Request received from ::1
+2025-03-03 08:10:37 info: GET /api/ldap/config - Request received from ::1
+2025-03-03 08:10:37 info: GET /api/ldap/config - 200 - 43ms
+2025-03-03 08:10:37 info: GET /api/ldap/config - 200 - 43ms
+2025-03-03 08:11:01 info: GET /api/ldap/config - Request received from ::1
+2025-03-03 08:11:01 info: GET /api/ldap/config - Request received from ::1
+2025-03-03 08:11:01 info: GET /api/ldap/config - 200 - 41ms
+2025-03-03 08:11:01 info: GET /api/ldap/config - 200 - 45ms
+2025-03-03 08:14:10 info: POST /api/ldap/test - Request received from ::1
+2025-03-03 08:14:10 info: Testando conexão LDAP com  ldap://marvitel.com.br.local:389
+2025-03-03 08:14:10 error: Erro no teste de conexão LDAP: Invalid Credentials
+InvalidCredentialsError: Invalid Credentials
+    at messageCallback (C:\Users\alef.martins\Documents\ProxyMO\backend\node_modules\ldapjs\lib\client\client.js:1267:45)
+    at Parser.onMessage (C:\Users\alef.martins\Documents\ProxyMO\backend\node_modules\ldapjs\lib\client\client.js:925:14)
+    at Parser.emit (node:events:518:28)
+    at Parser.write (C:\Users\alef.martins\Documents\ProxyMO\backend\node_modules\ldapjs\lib\messages\parser.js:135:8)
+    at Socket.onData (C:\Users\alef.martins\Documents\ProxyMO\backend\node_modules\ldapjs\lib\client\client.js:875:22)
+    at Socket.emit (node:events:518:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+    at TCP.onStreamRead (node:internal/stream_base_commons:189:23)
+2025-03-03 08:14:11 info: POST /api/ldap/test - 200 - 72ms
+2025-03-03 08:14:21 info: POST /api/ldap/config - Request received from ::1
+2025-03-03 08:14:21 info: Configurações LDAP carregadas com sucesso
+2025-03-03 08:14:21 info: POST /api/ldap/config - 200 - 40ms
+2025-03-03 08:14:21 info: GET /api/ldap/config - Request received from ::1
+2025-03-03 08:14:21 info: GET /api/ldap/config - 200 - 13ms
+2025-03-03 08:14:38 info: POST /api/ldap/sync - Request received from ::1
+2025-03-03 08:14:38 error: Erro na sincronização LDAP: Invalid Credentials
+InvalidCredentialsError: Invalid Credentials
+    at messageCallback (C:\Users\alef.martins\Documents\ProxyMO\backend\node_modules\ldapjs\lib\client\client.js:1267:45)
+    at Parser.onMessage (C:\Users\alef.martins\Documents\ProxyMO\backend\node_modules\ldapjs\lib\client\client.js:925:14)
+    at Parser.emit (node:events:518:28)
+    at Parser.write (C:\Users\alef.martins\Documents\ProxyMO\backend\node_modules\ldapjs\lib\messages\parser.js:135:8)
+    at Socket.onData (C:\Users\alef.martins\Documents\ProxyMO\backend\node_modules\ldapjs\lib\client\client.js:875:22)
+    at Socket.emit (node:events:518:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+    at TCP.onStreamRead (node:internal/stream_base_commons:189:23)
+2025-03-03 08:14:38 error: Erro ao sincronizar LDAP: Invalid Credentials
+InvalidCredentialsError: Invalid Credentials
+    at messageCallback (C:\Users\alef.martins\Documents\ProxyMO\backend\node_modules\ldapjs\lib\client\client.js:1267:45)
+    at Parser.onMessage (C:\Users\alef.martins\Documents\ProxyMO\backend\node_modules\ldapjs\lib\client\client.js:925:14)
+    at Parser.emit (node:events:518:28)
+    at Parser.write (C:\Users\alef.martins\Documents\ProxyMO\backend\node_modules\ldapjs\lib\messages\parser.js:135:8)
+    at Socket.onData (C:\Users\alef.martins\Documents\ProxyMO\backend\node_modules\ldapjs\lib\client\client.js:875:22)
+    at Socket.emit (node:events:518:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+    at TCP.onStreamRead (node:internal/stream_base_commons:189:23)
+2025-03-03 08:14:38 error: POST /api/ldap/sync - 500 - 52ms
+2025-03-03 08:47:31 info: GET /api/ldap/config - Request received from ::1
+2025-03-03 08:47:31 info: GET /api/ldap/config - Request received from ::1
+2025-03-03 08:47:31 info: GET /api/ldap/config - 200 - 107ms
+2025-03-03 08:47:31 info: GET /api/ldap/config - 200 - 98ms
+2025-03-03 09:08:25 info: GET /api/ldap/config - Request received from ::1
+2025-03-03 09:08:25 info: GET /api/ldap/config - Request received from ::1
+2025-03-03 09:08:25 info: GET /api/ldap/config - 200 - 70ms
+2025-03-03 09:08:25 info: GET /api/ldap/config - 200 - 67ms
+2025-03-03 09:09:09 info: GET /api/ldap/config - Request received from ::1
+2025-03-03 09:09:09 info: GET /api/ldap/config - Request received from ::1
+2025-03-03 09:09:09 info: GET /api/ldap/config - 200 - 89ms
+2025-03-03 09:09:09 info: GET /api/ldap/config - 200 - 99ms
+2025-03-03 09:09:14 info: GET /api/ldap/config - Request received from ::1
+2025-03-03 09:09:14 info: GET /api/ldap/config - Request received from ::1
+2025-03-03 09:09:14 info: GET /api/ldap/config - 200 - 35ms
+2025-03-03 09:09:14 info: GET /api/ldap/config - 200 - 48ms
+2025-03-03 09:09:22 info: GET /api/ldap/config - Request received from ::1
+2025-03-03 09:09:22 info: GET /api/ldap/config - Request received from ::1
+2025-03-03 09:09:22 info: GET /api/ldap/config - 200 - 31ms
+2025-03-03 09:09:22 info: GET /api/ldap/config - 200 - 31ms
+2025-03-03 09:10:30 info: GET /api/auth/verify - Request received from ::1
+2025-03-03 09:10:30 info: GET /api/auth/verify - 200 - 15ms
+2025-03-03 09:10:32 info: GET /api/auth/verify - Request received from ::1
+2025-03-03 09:10:32 info: GET /api/auth/verify - 200 - 22ms
+2025-03-03 09:10:43 info: GET /api/auth/verify - Request received from ::1
+2025-03-03 09:10:43 info: GET /api/auth/verify - Request received from ::1
+2025-03-03 09:10:43 info: GET /api/auth/verify - 200 - 341ms
+2025-03-03 09:10:43 info: GET /api/auth/verify - 200 - 323ms
