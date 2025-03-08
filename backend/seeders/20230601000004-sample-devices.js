@@ -1,0 +1,92 @@
+module.exports = {
+    up: async (queryInterface, Sequelize) => {
+      return queryInterface.bulkInsert("Devices", [
+        {
+          name: "Router-Core-01",
+          ip: "192.168.1.1",
+          port: 22,
+          manufacturer: "Mikrotik",
+          model: "CCR1036-8G-2S+",
+          description: "Roteador principal",
+          sshEnabled: true,
+          telnetEnabled: false,
+          winboxEnabled: true,
+          status: "online",
+          lastSeen: new Date(),
+          latency: 5,
+          createdAt: new Date(),
+          updatedAt: new Date(),
+        },
+        {
+          name: "Switch-Access-01",
+          ip: "192.168.1.2",
+          port: 22,
+          manufacturer: "Cisco",
+          model: "Catalyst 2960",
+          description: "Switch de acesso",
+          sshEnabled: true,
+          telnetEnabled: true,
+          winboxEnabled: false,
+          status: "online",
+          lastSeen: new Date(),
+          latency: 8,
+          createdAt: new Date(),
+          updatedAt: new Date(),
+        },
+        {
+          name: "Firewall-Edge-01",
+          ip: "192.168.1.3",
+          port: 22,
+          manufacturer: "Fortinet",
+          model: "FortiGate 100F",
+          description: "Firewall de borda",
+          sshEnabled: true,
+          telnetEnabled: false,
+          winboxEnabled: false,
+          status: "offline",
+          lastSeen: new Date(Date.now() - 86400000), // 1 dia atrás
+          latency: 0,
+          createdAt: new Date(),
+          updatedAt: new Date(),
+        },
+        {
+          name: "Router-Branch-01",
+          ip: "192.168.2.1",
+          port: 22,
+          manufacturer: "Mikrotik",
+          model: "RB3011",
+          description: "Roteador da filial",
+          sshEnabled: true,
+          telnetEnabled: false,
+          winboxEnabled: true,
+          status: "online",
+          lastSeen: new Date(),
+          latency: 15,
+          createdAt: new Date(),
+          updatedAt: new Date(),
+        },
+        {
+          name: "Switch-Core-01",
+          ip: "192.168.1.4",
+          port: 22,
+          manufacturer: "Cisco",
+          model: "Catalyst 3850",
+          description: "Switch de núcleo",
+          sshEnabled: true,
+          telnetEnabled: true,
+          winboxEnabled: false,
+          status: "maintenance",
+          lastSeen: new Date(Date.now() - 43200000), // 12 horas atrás
+          latency: 0,
+          createdAt: new Date(),
+          updatedAt: new Date(),
+        },
+      ])
+    },
+  
+    down: async (queryInterface, Sequelize) => {
+      return queryInterface.bulkDelete("Devices", null, {})
+    },
+  }
+  
+  
